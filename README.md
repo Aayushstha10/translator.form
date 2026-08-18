@@ -1,4 +1,4 @@
-# Nepali Citizenship Form — bilingual, with PDF/Word export
+# Nepali Citizenship Form
 
 A MERN-stack app: a Nepali citizenship application form with bilingual
 English/Japanese labels throughout. As you type into most fields, a live
